@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+  }
+  
+  .store-name {
+    font-size: 24px;
+    color: #ffc845;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .header-left a,
+  .header-right a {
+    margin-right: 20px;
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .search-bar {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 30px;
+  }
+
+  .logo {
+    padding-top: 10px;
+    width: 150px;
+    height: auto;
+  }
+  
